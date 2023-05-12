@@ -17,7 +17,7 @@ Para instalar y ejecutar este proyecto, sigue los siguientes pasos:
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/yourusername/damas-minimax.git
+https://github.com/DuvanFelipeDeveloper/DamasMinMaxQ.git
 ```
 
 2. Instala las dependencias necesarias:
